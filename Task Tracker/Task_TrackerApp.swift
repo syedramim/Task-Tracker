@@ -11,7 +11,7 @@ import SwiftUI
 struct Task_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskView()
         }
     }
 }
